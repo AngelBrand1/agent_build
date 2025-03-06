@@ -11,7 +11,7 @@ Este proyecto es una implementación de sistemas multiagentes inteligentes utili
 
 1. Clona el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/AngelBrand1/agent_build.git
     cd agent_build
     ```
 
