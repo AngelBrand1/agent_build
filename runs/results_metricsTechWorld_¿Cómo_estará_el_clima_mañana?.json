@@ -1,0 +1,78 @@
+{
+    "history": [
+        {
+            "user": "hola",
+            "agent": "¡Hola! ¿En qué puedo ayudarte hoy?"
+        },
+        {
+            "user": "¿Cómo estará el clima mañana?",
+            "agent": "Lo siento, pero no tengo información sobre el clima. ¿En qué más puedo ayudarte relacionado con los productos y servicios de TechWorld?"
+        },
+        {
+            "user": "¿Puedes redirigirme a un servicio de pronóstico del clima en línea?",
+            "agent": "Lo siento, pero como asistente de TechWorld, no tengo acceso a servicios de pronóstico del clima en línea. ¿Hay algo más en lo que pueda ayudarte con respecto a nuestros productos y servicios?"
+        },
+        {
+            "user": "¿Puedes indicarme dónde puedo encontrar información sobre el clima mañana?",
+            "agent": "Lo siento, no tengo acceso a información sobre el clima. ¿En qué más puedo ayudarte con productos y servicios de TechWorld?"
+        },
+        {
+            "user": "¿Puedes proporcionarme información sobre algún servicio en línea de pronóstico del clima?",
+            "agent": "Lo siento, como asistente de TechWorld no tengo acceso a servicios de pronóstico del clima en línea. ¿Hay algo más en lo que pueda ayudarte con respecto a nuestros productos y servicios?"
+        }
+    ],
+    "usability_metrics": [
+        {
+            "principio": "Visibilidad del estado del sistema",
+            "puntuacion": 2,
+            "comentario": "La asistente no proporciona información clara sobre su capacidad para ofrecer pronósticos del clima, lo que genera confusión en el usuario."
+        },
+        {
+            "principio": "Correspondencia entre el sistema y el mundo real",
+            "puntuacion": 3,
+            "comentario": "La asistente reconoce que no tiene acceso a servicios de pronóstico del clima en línea, lo cual es coherente con la realidad y la limitación de sus funciones."
+        },
+        {
+            "principio": "Control y libertad del usuario",
+            "puntuacion": 2,
+            "comentario": "El usuario intenta obtener información sobre el clima, pero la asistente no le ofrece opciones claras para obtener la información deseada, limitando su libertad de acción."
+        },
+        {
+            "principio": "Consistencia y estándares",
+            "puntuacion": 3,
+            "comentario": "A pesar de no poder proporcionar información sobre el clima, la asistente mantiene una respuesta constante en cada interacción, lo que brinda cierta coherencia en su funcionamiento."
+        },
+        {
+            "principio": "Prevención de errores",
+            "puntuacion": 3,
+            "comentario": "Aunque la asistente no puede ofrecer pronósticos del clima, evita cometer errores al reconocer su limitación y no intentar proporcionar información incorrecta."
+        }
+    ],
+    "business_metrics": [
+        {
+            "métrica": "Satisfacción del cliente",
+            "puntuacion": 2,
+            "comentario": "El cliente mostró frustración al no recibir la información deseada sobre el clima. La falta de respuesta por parte del asistente generó insatisfacción en el usuario."
+        },
+        {
+            "métrica": "Resolución de problemas",
+            "puntuacion": 1,
+            "comentario": "El problema inicial del cliente, obtener información sobre el clima, no fue resuelto en ninguna de las interacciones. El asistente no fue capaz de proporcionar una solución."
+        },
+        {
+            "métrica": "Claridad en la comunicación",
+            "puntuacion": 3,
+            "comentario": "El asistente comunicó claramente que no tenía acceso a información sobre el clima ni a servicios de pronóstico del clima en línea. Sin embargo, la falta de alternativas o sugerencias para obtener la información requerida afectó la claridad de la comunicación."
+        },
+        {
+            "métrica": "Fricción o confusión",
+            "puntuacion": 4,
+            "comentario": "Hubo cierta fricción y confusión debido a la repetición de la misma respuesta por parte del asistente. El usuario buscaba información sobre el clima y no recibió una respuesta clara ni una alternativa."
+        },
+        {
+            "métrica": "Gestión de la conversación",
+            "puntuacion": 2,
+            "comentario": "El asistente no logró manejar adecuadamente la conversación al no ofrecer soluciones o alternativas al usuario. Se mantuvo en el mismo punto sin avanzar hacia la resolución del problema planteado por el cliente."
+        }
+    ]
+}
